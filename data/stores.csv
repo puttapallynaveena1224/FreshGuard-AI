@@ -1,0 +1,5 @@
+store_id,store_name,store_type,city,daily_foot_traffic,cooling_capacity_status,data_notice
+STR-001,Lakshmi General Store,Grocery & Fresh Foods,Hyderabad,850,Optimal,ACTIVE_STORE
+STR-LEGACY-001,Downtown Metro Fresh,Urban Supermarket,Metropolis,3400,Optimal,SYNTHETIC_SAMPLE_DATA
+STR-002,Suburban Center Grocers,Suburban Supercenter,Westfield,5200,Optimal,SYNTHETIC_SAMPLE_DATA
+STR-003,Express Transit Mart,Convenience Fresh,Metropolis Station,1800,Near Capacity,SYNTHETIC_SAMPLE_DATA

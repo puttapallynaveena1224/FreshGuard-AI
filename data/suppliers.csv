@@ -1,0 +1,9 @@
+supplier_id,supplier_name,product_id,lead_time_days,moq,unit_cost,retail_price,margin_floor_pct,shelf_life_days,data_notice
+SUP-AGRI-01,Valley Green Farms,PRD-AVO-01,2,20,2.10,4.99,15,7,SYNTHETIC_SAMPLE_DATA
+SUP-AGRI-01,Valley Green Farms,PRD-BER-02,1,24,1.80,4.49,12,5,SYNTHETIC_SAMPLE_DATA
+SUP-AGRI-02,FreshLeaf Organics,PRD-SPN-03,2,15,1.40,3.79,10,6,SYNTHETIC_SAMPLE_DATA
+SUP-DAIR-01,Meadowland Dairy Co.,PRD-MLK-04,2,30,2.80,5.89,10,12,SYNTHETIC_SAMPLE_DATA
+SUP-DAIR-01,Meadowland Dairy Co.,PRD-YOG-05,3,20,2.40,5.29,12,14,SYNTHETIC_SAMPLE_DATA
+SUP-BAKE-01,Golden Crust Bakery,PRD-BRD-06,1,12,1.75,4.99,15,4,SYNTHETIC_SAMPLE_DATA
+SUP-MEAT-01,Highland Pastures Meat,PRD-CHK-07,1,18,3.50,7.49,14,5,SYNTHETIC_SAMPLE_DATA
+SUP-MEAT-01,Highland Pastures Meat,PRD-BEE-08,1,16,3.20,6.99,12,5,SYNTHETIC_SAMPLE_DATA
